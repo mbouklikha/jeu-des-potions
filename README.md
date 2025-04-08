@@ -1,4 +1,4 @@
-# Jeu des Potions - Fiolement coloré 🧪🎨
+# Jeu des Potions - Fioles colorées 🧪🎨
 
 Ce projet est un jeu de logique simple où le joueur doit regrouper les boules de même couleur dans des fioles. 
 Une fois chaque fiole remplie d’une seule couleur, le joueur peut valider sa solution.
