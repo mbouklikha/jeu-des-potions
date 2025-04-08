@@ -16,3 +16,6 @@ Une fois chaque fiole remplie d’une seule couleur, le joueur peut valider sa s
 
 - Python
 - Tkinter (interface graphique)
+
+
+![image](https://github.com/user-attachments/assets/eff850a9-09c1-4564-8b42-4989e2687d51)
